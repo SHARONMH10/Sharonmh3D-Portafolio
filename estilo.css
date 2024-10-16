@@ -1,0 +1,37 @@
+*{margin: 0; padding: 0;}
+div#container{background-color: #ffffff; width: 1135px;margin: 0 auto;text-align: center;padding-bottom: 300px;}
+img#imagenportada{margin-top: 33px;margin-bottom: 100px;}
+h1{color: #826500;width: 539px;margin: 0 auto;margin-bottom: 100px;font-size: 4.5em;font-family: "Playfair Display", serif;font-weight: 600;}
+p#parrafoPortada{color: #000000;width: 939px; margin:0 auto;margin-bottom: 200px;font-size: 2.1em;line-height: 1.5em;font-family: "Sedan", sans-serif;font-weight: 100;text-align: center;}
+a#btnEntrar{color: #fff;margin: 0 auto;font-size: 2.4em;background-color: #000000;padding: 60px 150px; text-decoration: none;border-color: #826500; border-style: solid;border-width: 7px;border-radius:25px; box-shadow:15px 15px 35px;font-family: "Jacques Francois", serif}
+header {background-image: url(imagenes/hhhhhh.png);
+height: 500px;}
+header h1{padding-top: 150px;font-family: "Sedán", sans-serif;font-size: 5.5em;}
+nav {margin: 70px 0px}
+nav a {margin: 0px 20px;}
+
+section h2{font-family: "Jacques Francois", serif;
+color:#826500;
+font-size:3.2em;
+font-weight: 400;
+margin-bottom: 56px;}
+p{font-family: "Sedan", sans-serif;
+color: #000000;
+padding: 0px 55px;
+text-align: justify;
+font-size: 1.8em;
+line-height: 1.8em;
+margin-bottom: 2.1em;}
+
+
+section#galeria p {width: 360px;}
+section#galeria h3 {color:#826500;font-family: "Jacques Francois", serif;font size:6.9em;font-weight: 700;margin:35px 0px;}
+ul.ListadeArticulos{align-items: flex-start;display:flex;flex-wrap:nowrap;overflow-x: scroll;}
+
+ur.ListadeArticulos::-webkit-scrollbar{display:none;}
+ul.ListadeArticulos{scrollbar-width:none;}
+div.galeria{margin: 55px 0px;}
+
+footer{background-color: #000000;padding: 15x 0px;margin-top: 250px;}
+footer img{margin: 30px 70px;}
+footer h2{font-family: "Jacques Francois",serif;color:#ffffff;font-size: 5.5em;font-weight: 400;margin-bottom: 56px;padding-top: 36px;}
